@@ -1,0 +1,28 @@
+@page {
+    margin: 0.2in 0.5in 0.2in 0.5in;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body.pdf {
+    padding: 0px;
+}
+.container {
+    max-width: 100% !important;
+    /*padding: 0 20px;*/
+}
+
+table{
+    border-collapse: collapse; width: 100%;
+}
+
+td, th{
+    border:1px solid #ccc; padding:10px;
+}
+
+
+.table-bordered > thead > tr > th, .table-bordered > thead > tr > td {
+    border-bottom-width: 2px;
+}

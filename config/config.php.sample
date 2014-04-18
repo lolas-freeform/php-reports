@@ -31,6 +31,7 @@ return array(
 		'csv'=>'CSV',
 		'xlsx'=>'Download Excel 2007',
 		'xls'=>'Download Excel 97-2003',
+		'pdf' => 'PDF',
 		'text'=>'Text',
 		'table'=>'Simple table',
 		'raw data'=>'divider',
